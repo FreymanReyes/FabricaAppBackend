@@ -1,0 +1,17 @@
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Aplicacion.deps.json
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Aplicacion.dll
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Aplicacion.pdb
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Dominio.dll
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Persistencia.dll
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Dominio.pdb
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\bin\Release\net6.0\Persistencia.pdb
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.csproj.AssemblyReference.cache
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.AssemblyInfoInputs.cache
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.AssemblyInfo.cs
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.csproj.CopyComplete
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.dll
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\refint\Aplicacion.dll
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\Aplicacion.pdb
+D:\C#\ProyectoFabricaCarvajal\Aplicacion\obj\Release\net6.0\ref\Aplicacion.dll

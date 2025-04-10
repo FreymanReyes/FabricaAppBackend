@@ -1,0 +1,12 @@
+D:\C#\ProyectoFabricaCarvajal\Dominio\bin\Release\net6.0\Dominio.deps.json
+D:\C#\ProyectoFabricaCarvajal\Dominio\bin\Release\net6.0\Dominio.dll
+D:\C#\ProyectoFabricaCarvajal\Dominio\bin\Release\net6.0\Dominio.pdb
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.AssemblyInfo.cs
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.dll
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\refint\Dominio.dll
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\Dominio.pdb
+D:\C#\ProyectoFabricaCarvajal\Dominio\obj\Release\net6.0\ref\Dominio.dll
