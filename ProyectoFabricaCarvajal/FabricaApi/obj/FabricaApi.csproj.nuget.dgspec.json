@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj": {}
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -28,11 +31,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj"
               },
-              "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -66,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,19 +79,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -134,7 +141,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -143,19 +151,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
         "projectName": "FabricaApi",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -171,11 +182,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj"
               },
-              "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj"
               }
             }
           }
@@ -237,7 +248,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -249,19 +261,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\Persistencia\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -277,8 +292,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -318,7 +333,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -327,19 +343,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\Seguridad\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -355,8 +374,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj"
+              "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -386,7 +405,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -395,7 +415,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

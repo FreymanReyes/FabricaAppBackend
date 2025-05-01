@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlYCNpqcAfXR/ie1qfV1v9mojI/EHcxMACBtaLkmEGW4RDPbzkXdXLSZIolQRoxctObdxCYhuidne88S7qlCYQ==",
+  "dgSpecHash": "l0zE55clSHKju2rHWfOINRgqdnMklHwB/DyLUd9Cb07AH4fEfxmkggLgwApsDYUrj08yv8E6xV6eYf2A4z+KMQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anser\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\anser\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

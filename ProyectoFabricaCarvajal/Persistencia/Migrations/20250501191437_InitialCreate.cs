@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Persistencia.Migrations
 {
-    public partial class MigracionInicial : Migration
+    public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -174,7 +174,7 @@ namespace Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    UsuarioId = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    UsuarioId = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     ProductoId = table.Column<int>(type: "int", nullable: false),
                     PedVrUnit = table.Column<float>(type: "real", nullable: false),
                     PedCant = table.Column<float>(type: "real", nullable: false),
@@ -189,7 +189,8 @@ namespace Persistencia.Migrations
                         name: "FK_Pedido_AspNetUsers_UsuarioId",
                         column: x => x.UsuarioId,
                         principalTable: "AspNetUsers",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Pedido_Producto_ProductoId",
                         column: x => x.ProductoId,

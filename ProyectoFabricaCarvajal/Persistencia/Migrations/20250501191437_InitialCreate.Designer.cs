@@ -12,8 +12,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(ArchivoContexto))]
-    [Migration("20220608030908_MigracionInicial")]
-    partial class MigracionInicial
+    [Migration("20250501191437_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -50,17 +50,15 @@ namespace Persistencia.Migrations
                     b.Property<int>("ProductoId")
                         .HasColumnType("int");
 
-                    b.Property<Guid>("UsuarioId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("UsuarioId1")
+                    b.Property<string>("UsuarioId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
 
                     b.HasIndex("ProductoId");
 
-                    b.HasIndex("UsuarioId1");
+                    b.HasIndex("UsuarioId");
 
                     b.ToTable("Pedido");
                 });
@@ -292,7 +290,9 @@ namespace Persistencia.Migrations
 
                     b.HasOne("Dominio.Usuario", "Usuario")
                         .WithMany("PedidoListaUsuario")
-                        .HasForeignKey("UsuarioId1");
+                        .HasForeignKey("UsuarioId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Producto");
 

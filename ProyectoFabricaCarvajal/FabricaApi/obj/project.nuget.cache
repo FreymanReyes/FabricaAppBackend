@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQG8myla3Em4nhLw82wDptXySqPwAMbs3CZBmhddCs15w8yUgHUH8S4jMxIGRaU4Wm1O4TL6KDh7hnex1InXCA==",
+  "dgSpecHash": "kcLodjgQhqTzLMyn9jUUtDHU1h16RJWKOhENYtF7KUzmk22DQut5rssINFue2hOuYeyI8+rhtfcmDvWxrhkhBg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
+  "projectFilePath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\FabricaApi\\FabricaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anser\\.nuget\\packages\\fluentvalidation\\11.0.2\\fluentvalidation.11.0.2.nupkg.sha512",
     "C:\\Users\\anser\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.2\\fluentvalidation.aspnetcore.11.0.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZXOlzza/yLoXgtCMwuc4+IOJFI2wYPKyVnFPtQyJT9XaZTkB+FlpEVutn9zIhksSxpPn5Pmejw8KmA23j8S9Bw==",
+  "dgSpecHash": "VP5PP6EpS+OlIEqgYA2HA9QGTuCoxMt+WiHtr6c/PeZnw3TTp9ikU7ba9oRqPfdSMlNMDSSHgKTSdt2padXSuw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
+  "projectFilePath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anser\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\anser\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",

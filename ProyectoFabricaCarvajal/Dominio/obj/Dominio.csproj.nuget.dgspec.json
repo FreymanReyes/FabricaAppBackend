@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {}
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
+    "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\anser\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ProyectoFabricaCarvajal\\Dominio\\obj\\",
+        "outputPath": "D:\\C#\\FabricaAppBackend\\ProyectoFabricaCarvajal\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\anser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -59,7 +62,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
